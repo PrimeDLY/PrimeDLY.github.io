@@ -84,7 +84,9 @@
   <entry>
     <title>《深入浅出Spring Boot 2.X》笔记</title>
     <url>/2022/05/23/%E3%80%8A%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BASpring%20Boot%202.X%E3%80%8B%E7%AC%94%E8%AE%B0/</url>
-    <content><![CDATA[<h2 id="第-1-章-Spring-Boot-来临"><a href="#第-1-章-Spring-Boot-来临" class="headerlink" title="第 1 章 Spring Boot 来临"></a>第 1 章 Spring Boot 来临</h2><h3 id="1-1-Spring-Framework-历史"><a href="#1-1-Spring-Framework-历史" class="headerlink" title="1.1 Spring Framework 历史"></a>1.1 Spring Framework 历史</h3><p>EJB&#x2F;JSP&#x2F;Servlet -&gt; Spring</p>
+    <content><![CDATA[<h2 id="第-1-章-Spring-Boot-来临"><a href="#第-1-章-Spring-Boot-来临" class="headerlink" title="第 1 章 Spring Boot 来临"></a>第 1 章 Spring Boot 来临</h2><span id="more"></span>
+
+<h3 id="1-1-Spring-Framework-历史"><a href="#1-1-Spring-Framework-历史" class="headerlink" title="1.1 Spring Framework 历史"></a>1.1 Spring Framework 历史</h3><p>EJB&#x2F;JSP&#x2F;Servlet -&gt; Spring</p>
 <h3 id="1-2-注解还是-XML"><a href="#1-2-注解还是-XML" class="headerlink" title="1.2 注解还是 XML"></a>1.2 注解还是 XML</h3><p>JDK1.5、Spring 3.0 引入注解。控制层<code>@Controller</code> 业务层<code>@Service</code> 持久层<code>@Repository</code>，4.0 完全脱离 XML</p>
 <h3 id="1-3-Spring-Boot-的优点"><a href="#1-3-Spring-Boot-的优点" class="headerlink" title="1.3 Spring Boot 的优点"></a>1.3 Spring Boot 的优点</h3><p>内嵌 Tomcat，Maven、自动配置</p>
 <h3 id="1-4-Spring-MVC-和-Spring-Boot-对比"><a href="#1-4-Spring-MVC-和-Spring-Boot-对比" class="headerlink" title="1.4 Spring MVC 和 Spring Boot 对比"></a>1.4 Spring MVC 和 Spring Boot 对比</h3><h4 id="Spring-MVC"><a href="#Spring-MVC" class="headerlink" title="Spring MVC"></a>Spring MVC</h4><ol>
